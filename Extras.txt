@@ -1,0 +1,7 @@
+Requirement: pygame==2.0.1
+Chess playing AI using greedy algorithm techniques.
+ChessMain to implement the code.
+ChessAI for the AI's play.
+ChessEngine for storing the backend info.
+Explanation of the code has been provided along with the code.
+
